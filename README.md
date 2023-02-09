@@ -7,6 +7,16 @@ This project is focused on using machine learning algorithms to predict customer
 ## Dataset
 The 'WA_Fn-UseC_-Telco-Customer-Churn' dataset contains information about 7043 customers and various features such as customer demographics, services subscribed, and billing information.
 
+## Tools & Libraries
+This project was implemented using:
+- Python programming language and Visual Studio Code as the Integrated Development Environment (IDE). 
+
+The following libraries were used in the project:
+
+ -- Pandas: for data analysis and manipulation
+ -- Numpy: for numerical computation
+ -- Sklearn: for machine learning algorithms and model evaluation
+ 
 ## Exploratory Data Analysis
 An exploratory data analysis was performed on the dataset to gain insights into the data. The analysis helped to understand the distribution of various features and detect any missing or irrelevant data.
 
