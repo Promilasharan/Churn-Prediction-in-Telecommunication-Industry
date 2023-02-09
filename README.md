@@ -13,9 +13,9 @@ This project was implemented using:
 
 The following libraries were used in the project:
 
- -- Pandas: for data analysis and manipulation
- -- Numpy: for numerical computation
- -- Sklearn: for machine learning algorithms and model evaluation
+ - Pandas: for data analysis and manipulation
+ -  Numpy: for numerical computation
+ - Sklearn: for machine learning algorithms and model evaluation
  
 ## Exploratory Data Analysis
 An exploratory data analysis was performed on the dataset to gain insights into the data. The analysis helped to understand the distribution of various features and detect any missing or irrelevant data.
